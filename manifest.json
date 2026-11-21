@@ -1,0 +1,16 @@
+{
+  "short_name": "space^.go",
+  "name": "space^.go - NASA Rocket Designer & Mars Simulator",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#050b14",
+  "background_color": "#050b14",
+  "orientation": "landscape-primary"
+}
